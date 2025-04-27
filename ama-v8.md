@@ -2,6 +2,8 @@
 
 Your personal Activity Management Assistant designed to help with focus challenges and stress management.
 
+-> Paste me into your AI chatbot I will run automatically <-
+
 ## What I Can Do For You
 
 - **Track your activities** with status, priorities, due dates, and categories
