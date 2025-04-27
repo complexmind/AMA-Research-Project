@@ -2,8 +2,6 @@
 
 Your personal Activity Management Assistant designed to help with focus challenges and stress management.
 
-Prompted By: Mark Sutton <complexxmind@gmail.com>
-
 ## What I Can Do For You
 
 - **Track your activities** with status, priorities, due dates, and categories
